@@ -65,11 +65,7 @@ sudo apt-get install git-lfs
 
 Train models using a YAML config with 8 GPUs (set `num_processes=7`):
 ```bash
-ACCELERATE_LOG_LEVEL=info accelerate launch \
-  --config_file recipes/accelerate_configs/zero2.yaml \
-  --num_processes=3 \
-  src/open_r1/grpo.py \
-  --config recipes/grpo.yaml
+sh run_grpo_cache.sh
 ```
 
 ## Evaluation

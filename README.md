@@ -6,8 +6,8 @@ Challenging this convention, we propose the assumption that "During reinforcemen
 ## Resources
 
 ### Models
-- [POER-7b](https://huggingface.co/knoveleng/Open-RS1)
-- [POER-1.5b](https://huggingface.co/knoveleng/Open-RS2)
+- [POER-7b](https://huggingface.co/anonymity0516/POER-7b)
+- [POER-1.5b](https://huggingface.co/anonymity0516/POER-1.5b)
 
 
 
